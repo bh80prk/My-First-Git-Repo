@@ -1,2 +1,5 @@
 Instructions to build
----------------------
+--------------------
+1. Set up Jenkins
+2. Create automated tests
+

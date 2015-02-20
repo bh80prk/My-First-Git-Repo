@@ -2,8 +2,8 @@ Readme file
 ------------
 
 This is the read me file for my Git.
-|WQ|
-:WQ
+
+To learn more watch more but don't forget to spend time to relax.
 
 
 
